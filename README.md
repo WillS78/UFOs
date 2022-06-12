@@ -4,7 +4,7 @@ UFOs
 
 # Overview of the analysis:
 
-## The purpose is well defined (2 pt)
+The purpose of this website is to give people the ability to search different UFO sightings outlining the date and location of these sightings. The website is designed to allow the end user to use multiple search options like the city, state, country and shape of the UFO.
 
 # Results:
 
